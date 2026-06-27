@@ -4,7 +4,7 @@ A Machine Learning project that predicts house prices based on various property 
 
 ## 🌐 Live Demo
 
-🔗 **Application:** https://your-streamlit-app-url.streamlit.app
+🔗 **Application:** https://xvyyyctcvxalyzdfwcvhya.streamlit.app/
 
 
 ---
